@@ -1,6 +1,6 @@
 Hello!
 - 👋 Hi, I’m @windyarya
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in software development (especially back-end) and cyber security
 - 🌱 I’m currently learning cryptography, artificial intelligence, and many more.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=windyarya&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true)
