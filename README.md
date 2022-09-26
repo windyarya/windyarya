@@ -7,7 +7,6 @@ Information Technology Student
 * 🌍  I'm based in Surabaya, Indonesia.
 * ✉️  You can contact me at [windyarya4@gmail.com](mailto:windyarya4@gmail.com)
 * 🧠  I'm learning Go-lang, Node.js, React.js, and Hashkel.
-* 🤝  I'm open to collaborating on interesting projects as backend developer.
 
 ### Skills
 
