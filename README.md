@@ -31,7 +31,7 @@ Information Technology Student
 ### Badges
 
 <b>My TryHackMe Stats</b>
-<script src="https://tryhackme.com/badge/1617653"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/win04r.png" alt="TryHackMe">
 
 <b>My GitHub Stats</b>
 
