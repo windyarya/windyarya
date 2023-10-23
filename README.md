@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Windy Arya</h1>
+<h2 align="center">Hi 👋, I'm Windy Arya</h1>
 <h3 align="center">An Information Technology student</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=windyarya&label=Profile%20views&color=0e75b6&style=flat" alt="windyarya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=windyarya" alt="windyarya" /></a> </p>
 
 - 🌱 I’m currently learning **Blue Team Security (Network Defense & Incident Handling)**
 
