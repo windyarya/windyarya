@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is I Putu Windy Arya Sagita
+I Putu Windy Arya Sagita
 ================================================================================================================================================
 
 Information Technology Student
@@ -6,7 +6,6 @@ Information Technology Student
 
 * 🌍  I'm based in Surabaya, Indonesia.
 * ✉️  You can contact me at [windyarya4@gmail.com](mailto:windyarya4@gmail.com)
-* 🧠  I'm learning Cyber Security on TryHackMe.
 
 ### Skills
 
